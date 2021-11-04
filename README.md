@@ -24,11 +24,11 @@ Apart from coding,  you can find my articles on  [Medium](https://frodomessi10.m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=frodo10messi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abduls's GitHub Stats" />
 </a>
 
-<a href="https://github.com/frodo10messi/python-project-blueprint">
+<a href="https://github.com/frodo10messi/CleanBoilerPlateFlutter">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=CleanBoilerPlateFlutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
+<a href="https://github.com/frodo10messi/Viper_Swift-objc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=Viper_Swift-objc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
