@@ -31,3 +31,5 @@ Apart from coding,  you can find my articles on  [Medium](https://frodomessi10.m
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=CleanBoilerPlateFlutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+### 📮 Get In Touch!
+- LinkedIn: https://www.linkedin.com/in/abdul-ahad-1b133814a/
