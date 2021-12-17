@@ -1,7 +1,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Abdul Ahad Jamal and I'm a senior software developer in Folio3. I'm from Pakistan, Currently living in karachi. A willing learner and a burning passion to expore and adopt new technologies defines who i am as a person  
+My name is Abdul Ahad Jamal and I'm a senior software developer in Folio3 and a data scientist enthusiast. I'm from Pakistan, Currently living in karachi. A willing learner and a burning passion to expore and adopt new technologies defines who i am as a person.
 
 ## &#x270d; Writing
 
@@ -14,6 +14,8 @@ Apart from coding,  you can find my articles on  [Medium](https://frodomessi10.m
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Jupeter-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
+
 
 ## &#x1f4c8; GitHub Stats
 
