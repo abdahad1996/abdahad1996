@@ -29,9 +29,9 @@ Apart from coding,  you can find my articles on  [Medium](https://frodomessi10.m
 <a href="https://github.com/frodo10messi/Viper_Swift-objc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=Viper_Swift-objc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<a href="https://github.com/frodo10messi/CleanBoilerPlateFlutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=CleanBoilerPlateFlutter&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+<a href="https://github.com/frodo10messi/CryptoLiveUpdates.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=CryptoLiveUpdates&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 ### 📮 Get In Touch!
 - LinkedIn: https://www.linkedin.com/in/abdul-ahad-1b133814a/
