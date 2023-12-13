@@ -5,7 +5,9 @@ My name is Abdul Ahad Jamal and I'm an Ios developer with more that 4 years of e
 
 ## &#x270d; Writing
 
-Apart from coding,  you can find my articles on  [Medium](https://frodomessi10.medium.com) 
+Apart from coding, you can find my recent articles on [Medium](https://frodomessi10.medium.com) 
+
+![My Medium Stories](https://medium-story.vercel.app/api?username=@frodomessi10&index=0&hide=date,img)
 
 # 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
