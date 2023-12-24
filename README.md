@@ -17,9 +17,9 @@ My name is Abdul Ahad Jamal and I'm an iOS developer with more than 5 years of e
 https://abdulahadjamalportfolio.netlify.app/
 
 ## &#x270d; Writing
-Apart from coding, you can find my recent articles on [Medium](https://frodomessi10.medium.com) 
+Apart from coding, you can find my recent articles on [Medium](https://medium.com/@abdulahd1996) 
 
-![My Medium Stories](https://medium-story.vercel.app/api?username=@frodomessi10&index=0&hide=date,img)
+![My Medium Stories](https://medium-story.vercel.app/api?username=@abdulahd1996&index=0&hide=date,img)
 # 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -30,18 +30,18 @@ Apart from coding, you can find my recent articles on [Medium](https://frodomess
 ![](https://img.shields.io/badge/Editor-Jupeter-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/frodo10messi/frodo10messi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frodo10messi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+<a href="https://github.com/abdahad1996/abdahad1996">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdahad1996&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
-<a href="https://github.com/frodo10messi/frodo10messi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frodo10messi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abduls's GitHub Stats" />
+<a href="https://github.com/abdahad1996/abdahad1996">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdahad1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abduls's GitHub Stats" />
 </a>
 
-<a href="https://github.com/frodo10messi/Viper_Swift-objc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=Viper_Swift-objc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/abdahad1996/Viper_Swift-objc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdahad1996&repo=Viper_Swift-objc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
-<a href="https://github.com/frodo10messi/CryptoLiveUpdates.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frodo10messi&repo=CryptoLiveUpdates&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/abdahad1996/CryptoLiveUpdates.git">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdahad1996&repo=CryptoLiveUpdates&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ### 📮 Get In Touch!
