@@ -3,7 +3,7 @@
 My name is Abdul Ahad Jamal and I'm an iOS and Flutter Developer with over 5 years of experience. My goal has always been to write scalable, testable, readable, and maintainable code. One of the best practices I have adopted to achieve this is applying SOLID principles, Design Patterns, dependency injection, and Test-Driven Development (TDD).
 
 
-## &#x270d; iOS Development
+## &#x270d;
  -  Swift, Objc-C & iOS Frameworks, Flutter, Dart
  -  UIKit, SwiftUI, Combine, Async-Await, & more
  -  Unit, UI, Snapshot & Integration tests (XCTest, FBSnapshot...)
