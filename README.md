@@ -1,17 +1,18 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Abdul Ahad Jamal and I'm an iOS developer with more than 5 years of experience. I started my iOS journey when iphoneX came out and ever since I have been captivated by the Apple ecosystem and coding in general. My goal has always been to write code that is scalable, testable, readable, and maintainable and part of the best practices that I have adopted to achieve this is applying SOLID principles, Design Patterns, dependency injection, and Test-Driven Development (TDD).
+My name is Abdul Ahad Jamal and I'm an iOS and Flutter Developer with over 5 years of experience. My goal has always been to write scalable, testable, readable, and maintainable code. One of the best practices I have adopted to achieve this is applying SOLID principles, Design Patterns, dependency injection, and Test-Driven Development (TDD).
 
 
 ## &#x270d; iOS Development
- -  Swift, Objc-C & iOS Frameworks
+ -  Swift, Objc-C & iOS Frameworks, Flutter, Dart
  -  UIKit, SwiftUI, Combine, Async-Await, & more
  -  Unit, UI, Snapshot & Integration tests (XCTest, FBSnapshot...)
- -  MVC, MVVM, MVP, Vertical Slicing, Horizontal Slicing, Onion & Clean Architecture, Tdd...
+ -  MVC, MVVM, MVP, Redux, Bloc, Riverpod, Provider, Stacked, Onion & Clean Architecture, Tdd...
  -  C.I, C.D, Git flow,  & Scrum
- -  Clean Code, SOLID, KISS, and other principles
+ -  Clean Code, SOLID, KISS, Modular Code and other principles
  -  Design Patterns (Singleton, Decorator, Factory, Proxy, Composite, Strategy and ...)
- -  iOS Design Patterns 
+
+
 
 ## &#x270d; My Portfolio 
 https://abdulahadjamalportfolio.netlify.app/
