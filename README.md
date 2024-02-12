@@ -21,7 +21,7 @@ https://abdulahadjamalportfolio.netlify.app/
 Apart from coding, you can find my recent articles on [Medium](https://medium.com/@abdulahd1996) 
 
 ![My Medium Stories](https://medium-story.vercel.app/api?username=@abdulahd1996&index=0&hide=date,img)
-# 🔧 Technologies & Tools
+<!--# 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
@@ -29,14 +29,15 @@ Apart from coding, you can find my recent articles on [Medium](https://medium.co
 ![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupeter-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats
 
+ 
 <a href="https://github.com/abdahad1996/abdahad1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdahad1996&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
-<a href="https://github.com/abdahad1996/abdahad1996">
+ <a href="https://github.com/abdahad1996/abdahad1996">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdahad1996&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Abduls's GitHub Stats" />
-</a>
+</a> -->
 
 
 ### 📮 Get In Touch!
