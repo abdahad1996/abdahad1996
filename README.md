@@ -1,17 +1,18 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Abdul Ahad Jamal and I'm an iOS and Flutter Developer with over 5 years of experience. My goal has always been to write scalable, testable, readable, and maintainable code. One of the best practices I have adopted to achieve this is applying SOLID principles, Design Patterns, dependency injection, and Test-Driven Development (TDD).
+My name is Abdul Ahad Jamal and I'm an Software Developer with over 5 years of experience. My goal has always been to write scalable, testable, readable, and maintainable code. One of the best practices I have adopted to achieve this is applying SOLID principles, Design Patterns, dependency injection, and Test-Driven Development (TDD).
 
 
-## &#x270d;
- -  Swift, Objc-C & iOS Frameworks, Flutter, Dart
- -  UIKit, SwiftUI, Combine, Async-Await, & more
- -  Unit, UI, Snapshot & Integration tests (XCTest, FBSnapshot...)
- -  MVC, MVVM, MVP, Redux, Bloc, Riverpod, Provider, Stacked, Onion & Clean Architecture, Tdd...
- -  C.I, C.D, Git flow,  & Scrum
- -  Clean Code, SOLID, KISS, Modular Code and other principles
- -  Design Patterns (Singleton, Decorator, Factory, Proxy, Composite, Strategy and ...)
+## Main Skills: &#x270d;
 
+
+ - Native iOS, Vapor, Flutter, React Native, React, Node js
+ - Swift, Objective-C, Dart, Javascript, Typescript
+ - Unit, UI, Snapshot & Integration tests, Acceptance Tests
+ - MVC, MVVM, MVP, Viper, TCA(The Composable Architecture), Bloc, Redux, Vertical Slicing, Horizontal Slicing, Onion & Clean Architecture, Tdd...
+ - C.I, C.D, Git flow, & Scrum
+ - Clean Code, SOLID, KISS, and other principles
+ - Design Patterns (Singleton, Decorator, Factory, Proxy, Composite, Strategy and ...)
 
 
 ## &#x270d; My Portfolio 
